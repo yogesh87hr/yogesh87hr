@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning javasscript.
 - 💞️ I’m looking to collaborate on web development at present.
-- 📫 Reach me at yogesh87hr@gmail.com
+- 📫 Reach me at yogesh87it@gmail.com
 - 😄 Pronouns: he 
 
 
